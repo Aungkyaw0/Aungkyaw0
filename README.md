@@ -19,20 +19,10 @@
 <div align="center">
   <h2>🛠️ Languages and Tools</h2>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,tailwind,python,cpp,c,mysql,git,github,vscode&perline=7" />
-</div>
 
-<br/>
-
-<div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aungkyaw0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aungkyaw0&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
