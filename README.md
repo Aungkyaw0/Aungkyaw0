@@ -10,9 +10,9 @@
   
 🔭 I'm currently working on **improving my development skills**
 
-🌱 I'm currently learning **React, Tailwind, Laravel**
+🌱 I'm currently learning **React, Tailwind, Laravel** . . . . . . . . . .       
 
-⚡ Fun fact: ** I'll unleash my full potential and give it everything I've got! **
+⚡ I'll unleash my full potential and give it everything I've got!
 
 </div>
 
