@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel, Express, React and Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://aungkyawthu-4f43.vercel.app/](https://aungkyawthu-4f43.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aungkyawthu.vercel.app/](https://aungkyawthu.vercel.app/)
 
 - 📫 How to reach me **a.k.t64690@gmail.com**       
 
